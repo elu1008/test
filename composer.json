@@ -1,5 +1,5 @@
 {
-    "name": "lulu/allpay",
+    "name": "elu1008/allpay",
     "description": "Allpay - Laravel 5 version",
     "type": "ecTool",
     "keywords": ["allpay"],
@@ -19,7 +19,7 @@
             "src/lib"
         ],
         "psr-4": {
-            "lulu\\Allpay\\": "src/"
+            "elu1008\\Allpay\\": "src/"
         }
     }
 }

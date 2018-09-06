@@ -19,7 +19,7 @@
             "src/lib"
         ],
         "psr-4": {
-            "ScottChayaa\\Allpay\\": "src/"
+            "lulu\\Allpay\\": "src/"
         }
     }
 }

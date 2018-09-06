@@ -19,7 +19,7 @@
             "src/lib"
         ],
         "psr-4": {
-            "elu1008\\test123\\": "src/"
+            "ScottChayaa\\test123\\": "src/"
         }
     }
 }
